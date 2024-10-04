@@ -1,6 +1,12 @@
 # OCENUS-Website
 Agriculture Insights Platform
-Powered by NASA’s advanced satellite data, this platform provides real-time insights to help farmers make informed decisions. Key features include:
+Powered by NASA’s advanced satellite data, this platform provides real-time insights to help farmers make informed decisions. 
+# Welcome page of Our website![image](https://github.com/user-attachments/assets/81d3f459-5c60-4f19-aaa0-29fc17a99cc6)
+# Our Main Home page :![image](https://github.com/user-attachments/assets/3c84fd52-5c57-4f95-9c8b-4ca19c990422)
+
+"Our main page highlights the key features of our website, including real-time weather updates, flood and drought predictions, climate change insights, and water availability data. These tools empower farmers to optimize irrigation, manage crops effectively, and make data-driven decisions for sustainable farming."
+
+Key features include:
 
 Real-Time Weather Updates: Stay updated with current weather conditions and forecasts.
 Climate Change Insights: Understand long-term climate impacts on agriculture.
