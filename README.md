@@ -6,7 +6,7 @@ Powered by NASA’s advanced satellite data, this platform provides real-time in
 
 # Key features include:
 
-# Real-Time Weather Updates: <br>
+# <h3>Real-Time Weather Updates:</h3> <br>
 # Stay updated with current weather conditions and forecasts.
 # Climate Change Insights: Understand long-term climate impacts on agriculture.
 # Precipitation Monitoring: Access real-time rainfall data to plan irrigation.
