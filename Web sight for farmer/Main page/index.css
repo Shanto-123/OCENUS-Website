@@ -13,39 +13,7 @@ body {
     background-color: #eef2f3;
     color: #333;
 }
-/*
-header {
-    
-    
-    background-color: #4aa3e0;
-    color: white;
-    padding: 20px;
-    text-align: center;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-}
 
-
-.search-bar {
-    margin-top: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.search-bar input {
-    width: 300px;
-    padding: 10px;
-    border-radius: 25px;
-    border: none;
-    outline: none;
-}
-
-.search-bar .search-icon {
-    margin-left: -40px;
-    cursor: pointer;
-}
-*/
-/* Add this to style the header with the logo */
 .header-content {
     display: flex;
     align-items: center; /* Aligns logo and text vertically */
@@ -116,19 +84,6 @@ h2 {
     background-color: #24565f;
 }
 
-/* .stat-box {
-   background-color: rgb(230, 228, 107);
-    border-radius: 10px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-    width: 220px;
-    padding: 20px;
-    margin: 10px;
-    text-align: center;
-    transition: transform 0.3s ease;
-    cursor: pointer;
-    
-    
-}*/
 .stat-box{
     text-transform: uppercase;
     width: 200px;
@@ -185,18 +140,27 @@ h2 {
 .notification-icon img {
     width: 50px;
     height: 50px;
+    padding-left: 10px;
 }
 
 .notification-text {
     text-align: center;
     font-weight: bold;
-    color: #ae2b2b;
+    
     
 }
 
-.notification-text h2 {
-    font-size: 1.5rem;
+
+.notification-text h3  {
+    background-color: #FF4C4C; /* Example: Red for Alerts */
+    color: #FFFFFF;
+    padding: 15px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 15px; /* Adjust this value to increase/decrease the roundness */
+    margin: 20px; /* Optional: Add margin to separate from other elements */
 }
+
 
 .notification-text p {
     font-size: 1rem;
