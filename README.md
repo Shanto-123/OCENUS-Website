@@ -8,10 +8,10 @@
 ## Website Overview
 
 ### Welcome Page
-![Welcome Page Image](https://github.com/user-attachments/assets/81d3f459-5c60-4f19-aaa0-29fc17a99cc6)
+![Untitled-1-01](https://github.com/user-attachments/assets/8fece0fa-96dc-43ed-ba76-2bb555e9dc92)
 
 ### Home Page
-![Home Page Image](https://github.com/user-attachments/assets/3c84fd52-5c57-4f95-9c8b-4ca19c990422)
+![Untitled-1-02](https://github.com/user-attachments/assets/e6b4ab4f-081d-4997-af54-5034b87fe9a2)
 
 ---
 
